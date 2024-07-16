@@ -1,0 +1,25 @@
+#include "Consts.h"
+const string Consts::WOOD = "Wood";
+const string Consts::WOOL = "Wool";
+const string Consts::IRON = "Iron";
+const string Consts::BLOCKS = "Blocks";
+const string Consts::SelectedCategory = "SelectedCategory";
+const string Consts::SelectedResource = "SelectedResource";
+const string Consts::SelectedComplete = "SelectedComplete";
+const string Consts::SelectedPeople = "SelectedPeople";
+const string Consts::SelectedCar = "SelectedCar";
+const string Consts::SelectedTruck = "SelectedTruck";
+const string Consts::SELECTED_COORDINATES = "SelectedCoordinates";
+const string Consts::CityCount = "CityCount";
+const string Consts::VillageCount = "VillageCount";
+const string Consts::RoadCount = "RoadCount";
+const string Consts::CAR_COUNT = "CarCount";
+const string Consts::TRUCK_COUNT = "TruckCount";
+const string Consts::HELICOPTER_COUNT = "HelicopterCount";
+const string Consts::City = "City";
+const string Consts::Village = "Village";
+const string Consts::Road = "Road";
+const string Consts::Car = "Car";
+const string Consts::HELICOPTER = "Helicopter";
+const string Consts::Truck = "Truck";
+const string Consts::People = "People";
